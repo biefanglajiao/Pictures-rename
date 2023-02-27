@@ -2,6 +2,9 @@
 ## 需要在电脑中提前下载好软件tesseract
 > tesseract下载地址：https://digi.bib.uni-mannheim.de/tesseract/
 > <br><font color=red>注意:要在安装时安装好中文语言包</font>
+语言库地址为：https://github.com/tesseract-ocr/tessdata
+
+将所需要的语言库下载下来，放在F:\Program Files (x86)\Tesseract-OCR\tessdata目录下
 > <br>更改好环境变量设置
 > <br> 详见：https://blog.csdn.net/showgea/article/details/82656515
 
